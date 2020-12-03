@@ -8,5 +8,8 @@ find_prod <- function(input, n = 2) {
     Reduce(`*`, input[ind])
 }
 
+# question 1
 find_prod(input, n = 2)
+
+# question 2
 find_prod(input, n = 3)
